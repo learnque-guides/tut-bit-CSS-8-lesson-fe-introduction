@@ -13,7 +13,7 @@ Santykiniai vienetai:
 * em - relative to the font-size of the element (2em means 2 times the size of the current font)
 * rem - relative to font-size of the root element
 
-Dažnai yra naudojami relatyvus vienetai rem ir em.
+Dažnai yra naudojami relatyvus vienetai rem ir em (apie juos daugiau, sekančioje skaidrėje).
 
 *Both rem and em are relative units, px is not. Before considering rem, it’s important to understand the relationship between em, markup and inheritance.*
 
