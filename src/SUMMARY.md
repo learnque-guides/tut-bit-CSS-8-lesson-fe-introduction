@@ -1,7 +1,5 @@
 # Summary
 
-- [Vienetai (ang. units) naudojami CSS](./css_units.md)
-- [Em vs rem](./em_rem.md)
 - [Grid layout (grid elementų išsidėstymas)](./grid_layout.md)
 - [Grid apibrėžimas](./defining_a_grid_layout.md)
 - [FR unit, auto-rows, repeat() and minmax()](./fr_auto_repeat_minmax.md)
