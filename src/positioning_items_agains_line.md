@@ -1,5 +1,38 @@
 # Elementų išdestymas grid
 
+
+```css
+.grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr;
+  grid-gap: 0.5em;
+}
+
+.grid > * {
+  background-color: darkgray;
+  color: white;
+  padding: 2em;
+  border-radius: 0.5em;
+}
+```
+
+```html
+<div class="grid">
+  <div class="a">a</div>
+  <div class="b">b</div>
+  <div class="c">c</div>
+  <div class="d">d</div>
+  <div class="e">e</div>
+  <div class="f">f</div>
+</div>
+```
+
+---
+![Simple grid](./image/simple_grid.png)
+
+---
+
 ```css
 .wrapper {
   display: grid;
@@ -22,3 +55,4 @@
 ---
 
 ![positioning_to_line](./image/pozitioning_to_line.png)
+

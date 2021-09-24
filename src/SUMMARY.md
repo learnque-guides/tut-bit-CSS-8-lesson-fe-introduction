@@ -2,8 +2,10 @@
 
 - [Grid layout (grid elementų išsidėstymas)](./grid_layout.md)
 - [Grid apibrėžimas](./defining_a_grid_layout.md)
-- [FR unit, auto-rows, repeat() and minmax()](./fr_auto_repeat_minmax.md)
+- [Grid anatomija](./grid_anatomy.md)
 - [Elementų išdestymas grid](positioning_items_agains_line.md)
+- [Pavyzdis kuris paaiškina grid veikimą](example_explaining.md)
+- [FR unit, auto-rows, repeat() and minmax()](./fr_auto_repeat_minmax.md)
 - [Grid panaudojimo pavyzdis I](./grid_layout_example.md)
 - [Grid panaudojimo pavyzdis II](./grid_layout_example_2.md)
 - [Grid panaudojimo pavyzdis III](./grid_layout_example_3.md)

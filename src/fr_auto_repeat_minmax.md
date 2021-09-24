@@ -7,6 +7,8 @@
 * You can also define a set size for tracks created in the implicit grid with the grid-auto-rows and grid-auto-columns properties.
 * When setting up an explicit grid or defining the sizing for automatically created rows or columns we may want to give tracks a minimum size, but also ensure they expand to fit any content that is added. Grid has a solution for this with the minmax() function.
 
+
+
 ```css
 .wrapper {
     display: grid;
